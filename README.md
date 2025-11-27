@@ -1,5 +1,5 @@
-# data analysis projects:
+# data analysis projects
 
-ipynb files contain
+ipynb files contain:
 
-Retails: customers and products classification
+Retails: customers churn, products classification
