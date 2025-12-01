@@ -1,6 +1,6 @@
 Data analysis projects
 
-customers churn: To classify customers into segments based on behaviors (Churn probabililty) Retail_customers_churn.ipynb
+Retail_customers_churn.ipynb: To classify customers into segments based on behaviors (Churn probabililty) 
 
 products classification: Retail_Products_Classification.ipynb
 
